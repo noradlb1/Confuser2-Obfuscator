@@ -1,0 +1,12 @@
+C:\Users\Inx\Desktop\MaMoVM--Modded-KoiVM--main\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\Debug\bin\MaMoVM.Confuser.dll
+C:\Users\Inx\Desktop\MaMoVM--Modded-KoiVM--main\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\Debug\bin\MaMoVM.Confuser.pdb
+C:\Users\Inx\Desktop\MaMoVM--Modded-KoiVM--main\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Confuser\obj\Debug\MaMoVM.Confuser.csprojAssemblyReference.cache
+C:\Users\Inx\Desktop\MaMoVM--Modded-KoiVM--main\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Confuser\obj\Debug\MaMoVM.Confuser.Properties.Resources.resources
+C:\Users\Inx\Desktop\MaMoVM--Modded-KoiVM--main\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Confuser\obj\Debug\MaMoVM.Confuser.csproj.GenerateResource.cache
+C:\Users\Inx\Desktop\MaMoVM--Modded-KoiVM--main\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Confuser\obj\Debug\MaMoVM.Confuser.csproj.CoreCompileInputs.cache
+C:\Users\Inx\Desktop\MaMoVM--Modded-KoiVM--main\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Confuser\obj\Debug\MaMoVM.Confuser.csproj.CopyComplete
+C:\Users\Inx\Desktop\MaMoVM--Modded-KoiVM--main\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Confuser\obj\Debug\MaMoVM.Confuser.dll
+C:\Users\Inx\Desktop\MaMoVM--Modded-KoiVM--main\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Confuser\obj\Debug\MaMoVM.Confuser.pdb
+C:\Users\MONSTERMC\Downloads\Desktop\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Confuser\obj\Debug\MaMoVM.Confuser.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\Desktop\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Confuser\obj\Debug\MaMoVM.Confuser.csproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\Desktop\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Confuser\obj\Debug\MaMoVM.Confuser.pdb

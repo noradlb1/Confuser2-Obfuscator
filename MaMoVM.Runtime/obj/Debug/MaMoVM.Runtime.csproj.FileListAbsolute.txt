@@ -1,0 +1,14 @@
+C:\Users\Inx\Desktop\MaMoVM--Modded-KoiVM--main\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\Debug\bin\WINDOWS.UI.IMMERSIVE.dll
+C:\Users\Inx\Desktop\MaMoVM--Modded-KoiVM--main\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\Debug\bin\WINDOWS.UI.IMMERSIVE.pdb
+C:\Users\Inx\Desktop\MaMoVM--Modded-KoiVM--main\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Runtime\obj\Debug\MaMoVM.Runtime.csprojAssemblyReference.cache
+C:\Users\Inx\Desktop\MaMoVM--Modded-KoiVM--main\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Runtime\obj\Debug\MaMoVM.Runtime.csproj.CoreCompileInputs.cache
+C:\Users\Inx\Desktop\MaMoVM--Modded-KoiVM--main\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Runtime\obj\Debug\MaMoVM.Runtime.csproj.CopyComplete
+C:\Users\Inx\Desktop\MaMoVM--Modded-KoiVM--main\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Runtime\obj\Debug\WINDOWS.UI.IMMERSIVE.dll
+C:\Users\Inx\Desktop\MaMoVM--Modded-KoiVM--main\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Runtime\obj\Debug\WINDOWS.UI.IMMERSIVE.pdb
+C:\Users\MONSTERMC\Downloads\Desktop\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\Debug\bin\WINDOWS.UI.IMMERSIVE.dll
+C:\Users\MONSTERMC\Downloads\Desktop\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\Debug\bin\WINDOWS.UI.IMMERSIVE.pdb
+C:\Users\MONSTERMC\Downloads\Desktop\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Runtime\obj\Debug\MaMoVM.Runtime.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\Desktop\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Runtime\obj\Debug\MaMoVM.Runtime.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\Desktop\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Runtime\obj\Debug\MaMoVM.Runtime.csproj.CopyComplete
+C:\Users\MONSTERMC\Downloads\Desktop\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Runtime\obj\Debug\WINDOWS.UI.IMMERSIVE.dll
+C:\Users\MONSTERMC\Downloads\Desktop\MaMoVM-Virtualization-master (Resources DATA and Little Modded)\MaMoVM.Runtime\obj\Debug\WINDOWS.UI.IMMERSIVE.pdb
